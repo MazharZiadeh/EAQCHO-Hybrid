@@ -29,11 +29,4 @@ We’ve thrown in plots to track:
 - The average of each meta-parameter (quantum weight, classical weight, adaptation rate) over time.
 
 ## Questions / Concerns
-Open an issue or ping me with questions. The code’s not perfect—no code is—but it’s a rad playground for optimization fanatics.
-
-## License
-TBD or insert your license text here.
-
----
-
-_If you’re feeling adventurous, fork away and hack on the code. Let’s see if it actually hits \(10^{-6}\) without losing its quantum marbles!_
+Open an issue or ping me with questions. The code’s not perfect and its generated via AI, but it’s a rad playground for optimization fanatics.
