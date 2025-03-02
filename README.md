@@ -1,2 +1,1 @@
-# EAQCHO-Hybrid
-EAQCHO: Evolutionary Algorithm for Adaptive Quantum-Classical Hybrid Optimization
+Self-Adaptive Quantum-Classical Evolutionary Optimization Using Meta-Evolutionary Controllers for the Sphere Function
