@@ -4,7 +4,7 @@ Hey there! This project merges quantum-inspired ideas with classical evolutionar
 
 > **Curious about the deeper theory, experiments, and math behind this approach?**  
 > Check out the detailed paper on ResearchGate:  
-> [Self-Adaptive Quantum-Classical Evolutionary Optimization Using Meta-Evolutionary Controllers for the Sphere Function](https://www.researchgate.net/publication/389499115_Self-Adaptive_Quantum-Classical_Evolutionary_Optimization_Using_Meta-Evolutionary_Controllers_for_the_Sphere_Function)
+> [Self-Adaptive Quantum-Classical Evolutionary Optimization Using Meta-Evolutionary Controllers for the Sphere Function](https://www.researchgate.net/publication/389503305_Self-Adaptive_Quantum-Classical_Evolutionary_Optimization_Using_Meta-Evolutionary_Controllers_for_the_Sphere_Function)
 
 ## Why It’s Cool
 1. **Quantum + Evolution**: We fuse quantum rotation gates with classical EAs to balance exploration (quantum) and exploitation (classical).
